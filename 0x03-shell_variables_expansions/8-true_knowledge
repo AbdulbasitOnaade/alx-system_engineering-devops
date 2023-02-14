@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $RESULT
+echo =$(($TRUEKNOWLEDGE + 128))
+
